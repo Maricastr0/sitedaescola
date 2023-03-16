@@ -1,4 +1,9 @@
-body{
-background-color: lightblue;
+.cabecalho{
+  background-color:violet;
+  color:white;
+  display: flex;
 }
-.cabecalho-imagem{width: 20%;}
+
+.cabecalho-imagem{
+    width: 20%;
+}
