@@ -14,6 +14,8 @@ body{
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+
+
 }
 
 .cabecalho-imagem{
@@ -47,5 +49,21 @@ body{
 }
 
 .primeira-raca{
-  size: 20%;
+    width: 15%;
+}
+
+.estudante-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
